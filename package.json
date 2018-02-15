@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "nogdacosta",
-  "license": "ulicensed"
+  "license": "ulicensed",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
 }
