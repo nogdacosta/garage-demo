@@ -5,8 +5,13 @@
   "author": "nogdacosta",
   "license": "ulicensed",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
     "eslint": "^4.17.0",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0"
+    "eslint-plugin-import": "^2.8.0",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
   }
 }
